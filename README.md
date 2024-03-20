@@ -1,5 +1,5 @@
-# sunatter
-[sunatter](https://ghsable.github.io/sunatter/) is my [Twitter](https://twitter.com/).
+# sunatter.archive.a
+[sunatter](https://ghsable.github.io/sunatter/).archive.a is my [Twitter](https://twitter.com/).
 
 ## Built with ...
 - [Zola](https://www.getzola.org/)
