@@ -6,4 +6,4 @@
 - [Mabuya](https://www.getzola.org/themes/mabuya/)
 
 ## License
-[![CC BY-NC-SA 4.0](https://raw.githubusercontent.com/ghsable/sunatter/main/.license/by-nc-sa.eu.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![CC BY-NC-SA 4.0](https://raw.githubusercontent.com/ghsable/sunatter.archive.a/main/.license/by-nc-sa.eu.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
